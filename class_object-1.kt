@@ -2,7 +2,6 @@ class Lamp
 {
     // property (data member)
     private var isOn: Boolean = false
-
     // member function
     fun turn_On()
     {
