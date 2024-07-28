@@ -23,7 +23,7 @@ class Lamp
         }
      }
 }
-
+//This is main a function 
 fun main() {
     val lamp_1 = Lamp()
     val lamp_2 = Lamp()
