@@ -1,3 +1,5 @@
+//var and if and else progrm writing on it 
+//Concatenation programming and var to run time values inside changing on it 
 fun main(args: Array<String>) {
     var N = 10
     var M = 10
