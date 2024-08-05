@@ -1,5 +1,3 @@
-//Solution as follows
-
 fun main(args : Array<String>) {
     var t = readLine()!!.toInt()
     repeat(t){
@@ -9,13 +7,14 @@ fun main(args : Array<String>) {
         {
             A[i] = i+1
         }
-
+//1st for loop
         for(x in A)
         {
             print("$x ")
         }
         println()
-
+        
+//2nd for loop 
         for(i in (N-1) downTo 0)
         {
             print("${A[i]} ")
